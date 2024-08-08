@@ -9,9 +9,21 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@headlessui/react": "^2.1.2",
+    "@radix-ui/react-dialog": "^1.1.1",
+    "axios": "^1.7.3",
+    "cheerio": "^1.0.0-rc.12",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.424.0",
+    "mongoose": "^8.5.2",
+    "next": "14.2.5",
+    "nodemailer": "^6.9.14",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.5"
+    "react-responsive-carousel": "^3.2.23",
+    "tailwind-merge": "^2.4.0",
+    "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
     "postcss": "^8",
